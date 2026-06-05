@@ -36,6 +36,7 @@ based on flower measurements.
 ## Project Structure
 
 
+```text
 Flask-main/
 │
 ├── app.py                    # Main Flask application
@@ -58,6 +59,7 @@ Flask-main/
 │   └── *.ico
 │
 └── README.md
+```
 
 ## Technologies Used
 
